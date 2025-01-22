@@ -1,0 +1,34 @@
+/* div{
+    height: 500px;
+    width: 500px;
+    background-image: radial-gradient(yellow,red,green)
+} */
+
+/* .hero{
+    width: 700px;
+    height: 700px;
+    background: linear-gradient(
+        90deg,
+        rgba(2,3,61,0.8) 0%,
+        rgba(0,168,255,0.8) 100%
+    ) ,
+    url("ama-dablam2-most-beautiful-mountains-in-the-world.webp");
+    background-size: cover;
+
+   
+} */
+/* Ne anen e majte osht emri i variables
+Ne nen e djathte eshte vler e variables */
+
+/* 
+:root{
+--white: #fff;
+--zi: black;
+--brand-primary: orange;
+--brand-secondary: green;
+} */
+
+/* body{
+    background-color: var(--brand-primary);
+} */
+
