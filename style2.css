@@ -1,0 +1,18 @@
+div{
+   
+    height: 310px;
+    width: 200px;
+    background-color: blue;
+
+}
+
+.kryesori{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color: white;
+}   
+
+.rritu:hover{
+transform: scale(1.2);
+}
